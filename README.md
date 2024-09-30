@@ -1,1 +1,3 @@
-# integrador-2-globant-university
+# Proyecto Integrador 2 - Globant University
+
+## Migthy Ducks Hockey League
